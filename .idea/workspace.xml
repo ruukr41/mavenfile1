@@ -10,11 +10,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="13641d7f-2285-4b9b-b32d-675b45b610f9" name="변경" comment="ㅇㄴ">
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/ResponseLoginProc.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/ResponseMain.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/SessionName.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/SessionTest.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/RequestJoin.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/RequestJoin.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/RequestJoinProc.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/RequestJoinProc.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -559,9 +557,6 @@
       <predefined_log_file id="Tomcat Host Manager Log" />
       <option name="contextPath" value="" />
       <option name="docBase" value="$PROJECT_DIR$/src/main/webapp" />
-      <option name="envOptions">
-        <map />
-      </option>
       <option name="port" value="8090" />
       <option name="tomcatInfo">
         <TomcatInfo>
@@ -616,7 +611,8 @@
       <workItem from="1673588530593" duration="3240000" />
       <workItem from="1673591782579" duration="5309000" />
       <workItem from="1673827709102" duration="9319000" />
-      <workItem from="1673932240064" duration="5361000" />
+      <workItem from="1673932240064" duration="7794000" />
+      <workItem from="1673945811499" duration="2986000" />
     </task>
     <task id="LOCAL-00001" summary="ㅇㄴ">
       <created>1673858515882</created>
@@ -625,7 +621,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673858515882</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ㅇㄴ">
+      <created>1673943960130</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673943960130</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
