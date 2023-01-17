@@ -9,15 +9,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="13641d7f-2285-4b9b-b32d-675b45b610f9" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/RequestJoinProc.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/webContexts.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
+    <list default="true" id="13641d7f-2285-4b9b-b32d-675b45b610f9" name="변경" comment="ㅇㄴ">
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/ResponseLoginProc.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/ResponseMain.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/RequestForward.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/RequestForward.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/RequestJoin.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/RequestJoin.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/RequestLoginProc.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/RequestLoginProc.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/RequestJoinProc.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/RequestJoinProc.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,8 +39,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="3159c500-4e22-4f0f-be43-053db64652cf" />
+        <option name="url" value="https://github.com/ruukr41/mavenfile.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -552,6 +562,7 @@
       <option name="envOptions">
         <map />
       </option>
+      <option name="port" value="8090" />
       <option name="tomcatInfo">
         <TomcatInfo>
           <option name="name" value="Apache Tomcat/9.0.70" />
@@ -604,8 +615,17 @@
       <workItem from="1673588437832" duration="84000" />
       <workItem from="1673588530593" duration="3240000" />
       <workItem from="1673591782579" duration="5309000" />
-      <workItem from="1673827709102" duration="8856000" />
+      <workItem from="1673827709102" duration="9319000" />
+      <workItem from="1673932240064" duration="5361000" />
     </task>
+    <task id="LOCAL-00001" summary="ㅇㄴ">
+      <created>1673858515882</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673858515882</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -631,7 +651,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/webapp/RequestJoinProc.jsp</url>
-          <line>9</line>
+          <line>8</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>

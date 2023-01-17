@@ -31,7 +31,48 @@
   <%
     }
   %>
+<table width="400" border="1">
+  <tr height="50">
+    <td width="150" align="center">ID </td>
+    <td width="350" align="center"> <%= id%>
 
+  <tr height="50">
+    <td width="150" align="center">password </td>
+    <td width="350" align="center"> <%= password1%></td>
+
+  <tr height="50">
+    <td width="150" align="center">E-mail </td>
+    <td width="350" align="center"> <%= email%></td>
+
+  <tr height="50">
+    <td width="150" align="center">phone number</td>
+    <td width="350" align="center"> <%= tel%></td>
+
+  <tr height="50">
+    <td width="150" align="center">hobby</td>
+    <td width="350" align="center"> <%
+    for (int i = 0; i < hobby.length; i++) {
+    out.write(hobby[i]+"");
+      }
+    %></td>
+  </tr>
+
+  <tr height="50">
+    <td width="150" align="center">job</td>
+    <td width="350" align="center"> <%= job%></td>
+  </tr>
+
+  <tr height="50">
+    <td width="150" align="center">age</td>
+    <td width="350" align="center"> <%= age%></td>
+  </tr>
+
+  <tr height="50">
+    <td width="150" align="center">하고싶은 말</td>
+    <td width="350" align="center"> <%= info%></td>
+  </tr>
+
+</table>
 
 </center>
 </body>

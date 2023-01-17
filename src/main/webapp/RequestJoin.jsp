@@ -14,27 +14,27 @@
         <tr height="50">
             <td width="150" align="center">ID </td>
             <td width="350" align="center">
-                <input type="text" name="id" size="40"> </td>
+                <input type="text" name="id" size="40" placeholder="ID를 입력하세요"> </td>
 
         <tr height="50">
             <td width="150" align="center">password </td>
             <td width="350" align="center">
-                <input type="password" name="password1" size="40"> </td>
+                <input type="password" name="password1" size="40" placeholder="비밀번호를 입력하세요"> </td>
 
         <tr height="50">
             <td width="150" align="center">confirm password  </td>
             <td width="350" align="center">
-                <input type="password" name="password2" size="40"> </td>
+                <input type="password" name="password2" size="40" placeholder="비밀번호를 동일하게 다시 입력하세요"> </td>
 
         <tr height="50">
             <td width="150" align="center">E-mail </td>
             <td width="350" align="center">
-                <input type="email" name="email" size="40" placeholder="메일주소 넣으ㅔㅁ"> </td>
+                <input type="email" name="email" size="40" placeholder="메일주소 넣으생ㅅ"> </td>
 
         <tr height="50">
             <td width="150" align="center">phone number</td>
             <td width="350" align="center">
-                <input type="tel" name="tel" size="40"> </td>
+                <input type="tel" name="tel" size="40" placeholder="-도 입력하세요"> </td>
 
         </tr>
 
